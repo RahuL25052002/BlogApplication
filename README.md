@@ -18,11 +18,6 @@ A complete Blog Management Application built using **Spring Boot** for the backe
 - ModelMapper
 - Maven
 
-### 🌐 Frontend (React)
-- React.js
-- React Bootstrap
-- Axios
-- React Router DOM
 
 ---
 
